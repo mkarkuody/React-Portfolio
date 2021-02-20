@@ -33,18 +33,18 @@ const Portfolio = () => {
           <div className="row">
             <div className="col-sm-6 col-md-12 col-lg-6">
              
-              <a href="https://github.com/mkarkuody/passwordgenerator" target="_self"><img className="img-fluid port-image" src="Password Generator.png" alt="Password Generator" /></a>
+              <a href="https://github.com/mkarkuody/passwordgenerator" target="_self"><img className="img-fluid port-image" src="https://github.com/mkarkuody/responsiveportfoliomerdad/blob/master/Password%20Generator.png?raw=true" alt="Password Generator" /></a>
             </div>
           </div>
           <div className="col-sm-6 col-md-12 col-lg-6">
          
-            <a href="https://github.com/mkarkuody/Weather-Dashboard" target="_self"><img className="img-fluid port-image" src="Weather Dashboard.png" alt="weather dashboard" /></a>
+            <a href="https://github.com/mkarkuody/Weather-Dashboard" target="_self"><img className="img-fluid port-image" src="https://github.com/mkarkuody/responsiveportfoliomerdad/blob/master/Weather%20Dashboard.png?raw=true" alt="weather dashboard" /></a>
           </div>
         </div>
         <div className="row">
           <div className="col-sm-6 col-md-12 col-lg-6">
            
-            <a href="https://github.com/mkarkuody/HTMLcodeRefactor" target="_self"><img className="img-fluid port-image" src="HTML reflactor.png" alt="HTML code refactor" /></a>
+            <a href="https://github.com/mkarkuody/HTMLcodeRefactor" target="_self"><img className="img-fluid port-image" src="https://github.com/mkarkuody/responsiveportfoliomerdad/blob/master/HTML%20reflactor.png?raw=true" alt="HTML code refactor" /></a>
           </div>
         </div>
       </article>
