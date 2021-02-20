@@ -25,7 +25,7 @@ https://github.com/mkarkuody/responsiveportfoliomerdad
 <image src="https://github.com/mkarkuody/responsiveportfoliomerdad/raw/master/portfolio.jpg">
 
 # project demo Video:
-
+https://github.com/mkarkuody/React-Portfolio/blob/main/React%20App.mp4
 
 # google doc link for downloadable pdf resume : 
 https://drive.google.com/file/d/1uGXP9Px5hNPnu1nn_RVCyeRH-iDMPkV3/view?usp=sharing
