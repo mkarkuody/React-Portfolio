@@ -30,18 +30,18 @@ https://github.com/mkarkuody/responsiveportfoliomerdad
 # google doc link for downloadable pdf resume : 
 https://drive.google.com/file/d/1uGXP9Px5hNPnu1nn_RVCyeRH-iDMPkV3/view?usp=sharing
 
-React
+# React Portfolio is included;
 Updated LinkedIn Profile
 
-Updated Portfolio Your updated site should still have all of the content it previously had:
+Updated Portfolio, updated site still have all of the content it previously had:
 
-Your name
+Name 
 
-Links to your GitHub profile & LinkedIn page as well as your email address and phone number
+Links to the GitHub profile & LinkedIn page as well as  email address and phone number
 
-A link to a PDF of your resume with updated projects
+A link to a PDF of the resume with updated projects
 
-A list of projects. For each project, make sure you have the following:
+A list of projects. For each project, and have the following:
 
 Project title
 
@@ -51,24 +51,34 @@ Link to the GitHub repository
 
 GIF or screenshot of the deployed application
 
-Design
-As with the previous portfolio homework, "good" design is subjective. Your site should look "polished." Here are a few guidelines on what that means:
-
+# This app looks "polished."
+:
 Mobile-first design
 
 Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site. You may we
 
 Make sure the font size is large enough to read, and that the colors don't cause eye strain.
 
-If you want to go above and beyond, try using animations and react component libraries. Note that this will not affect your grade, but it may impact how potentials employers gauge your knowledge.
 
-React
-Additionally, this new portfolio should be created using React. At a minimum, your portfolio should include the following:
+ This portfolio includes the following:
 
 A Header component that appears on multiple pages
 
 A single Project component that will be used multiple times on a single page
 
-Navigation with React Router, dynamic rendering, or another third part router
+Navigation with React Router, dynamic rendering.
 
 A Footer component that appears on multiple pages
+
+# To create a Note Taker using this app;
+Clone repository.
+In the directory with run npm install, use npm start in your current psth terminal,as soon as you see the Message,(App listening on PORT: 3000) you can work on your localhost and type on the save and retrieve the data.
+# Credits:
+Got help Online from : 
+•	https://www.google.com/
+•	https://www.w3schools.com/  
+•	www.YouTube.com 
+•   Bootstrap 
+•   React
+•   Heroku 
+ Thanks to John Young my class instructor and Ben Vaagen my TA. special Thanks to Abdul Aziz my TA and Amanda Crawford My Tutor for helping me to understand the class and homework contents.
