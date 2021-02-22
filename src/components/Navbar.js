@@ -18,9 +18,8 @@ function Navbar() {
             <a className="nav-link" href="/Portfolio">Portfolio</a>
           </li>
           <li className="nav-item active">
-            <a className="nav-link" src="https://drive.google.com/file/d/1uGXP9Px5hNPnu1nn_RVCyeRH-iDMPkV3/view">Portfolio</a>
+            <a className="nav-link" src="https://drive.google.com/file/d/1uGXP9Px5hNPnu1nn_RVCyeRH-iDMPkV3/view">My Resume</a>
           </li>
-          https://drive.google.com/file/d/1uGXP9Px5hNPnu1nn_RVCyeRH-iDMPkV3/view
           <li className="nav-item">
             <a className="nav-link" href="/">About</a>
           </li>
